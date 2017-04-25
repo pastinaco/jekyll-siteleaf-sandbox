@@ -1,0 +1,22 @@
+---
+layout: default
+---
+{% assign ordered_moclist = site.mocs | sort: 'position' %}
+{% for moc in ordered_moclist %}
+	<div class="moc">
+		<h3>{{ moc.title }}</h3>
+		<dl>
+{% if moc.website %}
+				<dt>Website</dt>
+				<dd><a href="{{ moc.website }}">{{ moc.website }}</a></dd>
+{% endif %}
+
+{% if moc.phone-numbers %}
+{% for phone in moc.phone-numbers %}
+				<dt>{{ phone.location }}</dt>
+				<dd>{{ phone.numbers }}</dd>
+{% endfor %}
+{% endif %}
+		</dl>
+	</div>
+{% endfor %}
