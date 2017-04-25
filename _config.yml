@@ -12,3 +12,5 @@ gems:
 - jekyll-textile-converter
 textile_ext: "textile,txtl,tl"
 future: true
+url: https://pastinaco.github.io
+baseurl: /jekyll-siteleaf-sandbox
