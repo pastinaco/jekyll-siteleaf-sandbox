@@ -1,6 +1,6 @@
 ---
-# theme: jekyll-theme-modernist
 title: Indivisible San Jose
+timezone: UTC
 collections:
   events:
     title: Events
@@ -8,9 +8,15 @@ collections:
   mocs:
     title: Members of Congress
     output: false
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 gems:
 - jekyll-textile-converter
-textile_ext: "textile,txtl,tl"
+textile_ext: textile,txtl,tl
 future: true
 url: https://pastinaco.github.io
-baseurl: /jekyll-siteleaf-sandbox
+baseurl: "/jekyll-siteleaf-sandbox"
