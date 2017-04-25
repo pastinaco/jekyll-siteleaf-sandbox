@@ -4,6 +4,6 @@ layout: default
 {% assign ordered_eventlist = site.events | sort: 'listing-date' %}
 {% for event in ordered_eventlist reversed %}
         <div class="event">
-          <h3>{{ event.listing-date | date: "%a, %b %d, %y" }}: <a href="{{ event.url }}">{{ event.title }}</h3></a>
+          <h3>{{ event.listing-date | date: "%a, %b %d, %y" }}: <a href="{{ event.url | absolute_url }}">{{ event.title }}</h3></a>
         </div>
 {% endfor %}
