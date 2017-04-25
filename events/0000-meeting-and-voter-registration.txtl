@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Meeting And Voter Registration Training Saturday April 29th</title>
+    <!-- link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Oleo+Script" -->
+    <link rel="stylesheet" type="text/css" href="https://pastinaco.github.io/jekyll-siteleaf-sandbox/assets/main.css">
+  </head>
+  <body>
+
+  <div class="header">
+    <a href="/">
+    <img src="https://pastinaco.github.io/jekyll-siteleaf-sandbox/assets/mainlogo-2048x747.jpg" width="50%" height="auto"
+         alt="Indivisible San Jose" title="Indivisible San Jose" />
+    </a>
+  </div>
+
+  <div class="nav">
+<!-- begin navbar -->
+<nav>
+	<a href="/events.html">Events</a>
+	&nbsp;&nbsp;&mdash;&nbsp;&nbsp;
+	<a href="/mocs.html">Members of Congress</a>
+	&nbsp;&nbsp;&mdash;&nbsp;&nbsp;
+	<a href="/links.html">Links and Resources</a>
+</nav>
+<!-- end navbar -->
+  </div>
+
+  <div class="content">
+<!-- begin main content -->
+*Saturday, April 29*
+
+*First Congregational Church, 1980 Hamilton Ave
+San Jose CA* ("Map":(https://goo.gl/maps/kGw5RyBP5r72))
+
+9:30am - 10:30am: The Santa Clara Democratic Congressional Campaign Committee will be conducting voter registration training.
+
+Our regular meeting will start at about 10:30.
+
+Saturday's training and meeting are open to all.
+<!-- end main content -->
+  </div>
+
+  </body>
+</html>

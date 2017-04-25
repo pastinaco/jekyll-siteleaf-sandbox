@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>First Wednesday Meeting Wednesday April 29th</title>
+    <!-- link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Oleo+Script" -->
+    <link rel="stylesheet" type="text/css" href="https://pastinaco.github.io/jekyll-siteleaf-sandbox/assets/main.css">
+  </head>
+  <body>
+
+  <div class="header">
+    <a href="/">
+    <img src="https://pastinaco.github.io/jekyll-siteleaf-sandbox/assets/mainlogo-2048x747.jpg" width="50%" height="auto"
+         alt="Indivisible San Jose" title="Indivisible San Jose" />
+    </a>
+  </div>
+
+  <div class="nav">
+<!-- begin navbar -->
+<nav>
+	<a href="/events.html">Events</a>
+	&nbsp;&nbsp;&mdash;&nbsp;&nbsp;
+	<a href="/mocs.html">Members of Congress</a>
+	&nbsp;&nbsp;&mdash;&nbsp;&nbsp;
+	<a href="/links.html">Links and Resources</a>
+</nav>
+<!-- end navbar -->
+  </div>
+
+  <div class="content">
+<!-- begin main content -->
+*Wednesday, May 24*
+
+*First Congregational Church, 1980 Hamilton Ave
+San Jose CA* ("Map":(https://goo.gl/maps/kGw5RyBP5r72))
+
+7:30pm - 9:00pm: This will be Indivisible San Jose’s first Wednesday meeting. No second Saturday meeting in May.
+<!-- end main content -->
+  </div>
+
+  </body>
+</html>

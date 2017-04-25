@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Members of Congress in Indivisible San Jose&#39;s Neighborhood</title>
+    <!-- link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Oleo+Script" -->
+    <link rel="stylesheet" type="text/css" href="https://pastinaco.github.io/jekyll-siteleaf-sandbox/assets/main.css">
+  </head>
+  <body>
+
+  <div class="header">
+    <a href="/">
+    <img src="https://pastinaco.github.io/jekyll-siteleaf-sandbox/assets/mainlogo-2048x747.jpg" width="50%" height="auto"
+         alt="Indivisible San Jose" title="Indivisible San Jose" />
+    </a>
+  </div>
+
+  <div class="nav">
+<!-- begin navbar -->
+<nav>
+	<a href="/events.html">Events</a>
+	&nbsp;&nbsp;&mdash;&nbsp;&nbsp;
+	<a href="/mocs.html">Members of Congress</a>
+	&nbsp;&nbsp;&mdash;&nbsp;&nbsp;
+	<a href="/links.html">Links and Resources</a>
+</nav>
+<!-- end navbar -->
+  </div>
+
+  <div class="content">
+<!-- begin main content -->
+
+
+	<div class="moc">
+		<h3>Congresswoman Anna Eshoo</h3>
+		<dl>
+
+				<dt>Website</dt>
+				<dd><a href="http://eshoo.house.gov/">http://eshoo.house.gov/</a></dd>
+
+
+
+
+				<dt>Washington, D.C. Office</dt>
+				<dd>(202) 225-8104</dd>
+
+				<dt>Palo Alto Office</dt>
+				<dd>(650) 323-2984 or (408) 245-2339 or (831) 335-2020</dd>
+
+
+		</dl>
+	</div>
+
+	<div class="moc">
+		<h3>Congresswoman Zoe Lofgren</h3>
+		<dl>
+
+				<dt>Website</dt>
+				<dd><a href="https://lofgren.house.gov/">https://lofgren.house.gov/</a></dd>
+
+
+
+
+				<dt>Washington D.C. Office</dt>
+				<dd>(202) 225-3072</dd>
+
+				<dt>San Jose, CA Office</dt>
+				<dd>(408) 271-8700</dd>
+
+
+		</dl>
+	</div>
+
+	<div class="moc">
+		<h3>Senator Dianne Feinstein</h3>
+		<dl>
+
+				<dt>Website</dt>
+				<dd><a href="https://www.feinstein.senate.gov/public/">https://www.feinstein.senate.gov/public/</a></dd>
+
+
+
+
+				<dt>SF Office</dt>
+				<dd>(213) 894-5000</dd>
+
+				<dt>DC Office</dt>
+				<dd>(202) 224-3553</dd>
+
+				<dt>Sacramento Office</dt>
+				<dd>(916) 448-2787</dd>
+
+
+		</dl>
+	</div>
+
+	<div class="moc">
+		<h3>Senator Kamala Harris</h3>
+		<dl>
+
+				<dt>Website</dt>
+				<dd><a href="https://www.harris.senate.gov/">https://www.harris.senate.gov/</a></dd>
+
+
+
+
+				<dt>SF Office</dt>
+				<dd>(213) 894-5000</dd>
+
+				<dt>DC Office</dt>
+				<dd>(202) 224-3553</dd>
+
+				<dt>Sacramento Office</dt>
+				<dd>(916) 448-2787</dd>
+
+
+		</dl>
+	</div>
+
+	<div class="moc">
+		<h3>Congresswoman Nancy Pelosi</h3>
+		<dl>
+
+				<dt>Website</dt>
+				<dd><a href="https://pelosi.house.gov">https://pelosi.house.gov</a></dd>
+
+
+
+
+				<dt>SF Office</dt>
+				<dd>(415) 556-4862</dd>
+
+				<dt>DC Office</dt>
+				<dd>(202) 225-4965</dd>
+
+
+		</dl>
+	</div>
+
+	<div class="moc">
+		<h3>Congresswoman Jackie Speier</h3>
+		<dl>
+
+				<dt>Website</dt>
+				<dd><a href="https://speier.house.gov">https://speier.house.gov</a></dd>
+
+
+
+
+				<dt>San Mateo Office</dt>
+				<dd>(650) 342-0300</dd>
+
+				<dt>DC Office</dt>
+				<dd>(202) 225-3531</dd>
+
+
+		</dl>
+	</div>
+
+
+<!-- end main content -->
+  </div>
+
+  </body>
+</html>
