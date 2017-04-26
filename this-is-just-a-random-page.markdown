@@ -1,7 +1,7 @@
 ---
 title: This is Just a Random Page
 date: 2017-04-26 00:58:00 Z
-variable: "{{page.variable}}"
+variable: page variable
 layout: default
 ---
 
