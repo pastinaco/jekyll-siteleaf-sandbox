@@ -7,4 +7,4 @@ layout: default
 
 And it's got some content, which is *[Markdown](https://github.github.com/gfm/)*.
 
-Plus presumably I can refer to a {{variable}}.
+Plus presumably I can refer to a {{page.variable}}.
