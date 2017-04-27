@@ -1,9 +1,11 @@
 ---
 title: Wednesday Meeting, Wednesday April 29th
+date: 2017-05-24 00:00:00 Z
 heading: First regular Wednesday Meeting
 layout: default
-listing-date: 2017-05-24
+listing-date: 2017-05-24 00:00:00 Z
 ---
+
 **Wednesday, May 24**
 
 **First Congregational Church, 1980 Hamilton Ave**

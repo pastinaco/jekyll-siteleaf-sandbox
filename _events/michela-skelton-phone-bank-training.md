@@ -1,8 +1,9 @@
 ---
 title: Michela Skelton Campaign Phone Banking Training
+date: 2017-05-13 00:00:00 Z
 heading: Michela Skelton Campaign (MO-50) Phone Bank Training
 layout: default
-listing-date: 2017-05-13
+listing-date: 2017-05-13 00:00:00 Z
 ---
 
 **Saturday, May 13**

@@ -1,6 +1,6 @@
 ---
-layout: default
 title: Links and Resources
+layout: default
 ---
 
 ### [Indivisible Guide](https://www.indivisibleguide.com/)

@@ -8,6 +8,12 @@ collections:
   mocs:
     title: Members of Congress
     output: false
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 future: true
 url: https://pastinaco.github.io
 baseurl: "/jekyll-siteleaf-sandbox"
