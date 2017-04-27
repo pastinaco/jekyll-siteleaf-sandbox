@@ -1,15 +1,14 @@
 ---
 title: Meeting And Voter Registration Training Saturday April 29th
-date: 2017-04-29 00:00:00 Z
 heading: Meeting And Voter Registration Training Saturday April 29th
 layout: default
-listing-date: 2017-04-29 00:00:00 Z
+listing-date: 2017-04-29
 ---
+**Saturday, April 29**
 
-*Saturday, April 29*
+**First Congregational Church, 1980 Hamilton Ave**
 
-*First Congregational Church, 1980 Hamilton Ave
-San Jose CA* ("Map":(https://goo.gl/maps/kGw5RyBP5r72))
+**San Jose CA* ([Map](https://goo.gl/maps/kGw5RyBP5r72))**
 
 9:30am - 10:30am: The Santa Clara Democratic Congressional Campaign Committee will be conducting voter registration training.
 
