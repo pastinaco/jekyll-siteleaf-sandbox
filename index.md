@@ -1,4 +1,5 @@
 ---
+title: Welcome to Indivisible San Jose
 layout: default
 header: Indivisible San Jose
 ---
