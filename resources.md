@@ -1,5 +1,5 @@
 ---
-title: Links and Resources
+title: Resources
 layout: default
 ---
 
