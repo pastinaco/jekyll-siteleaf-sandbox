@@ -1,6 +1,7 @@
 ---
 title: Contact Us
 date: 2017-04-27 22:02:00 -07:00
+layout: default
 ---
 
 We invite you to join the Resistance!  
