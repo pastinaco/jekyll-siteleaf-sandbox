@@ -18,3 +18,7 @@ Wednesday, May 24, 2017 at 7:30pm
 Saturday, June 10, 2017 at 9:30
 
 Wednesday, June 28, 2017 at 7:30pm
+
+**Our meeting location**
+
+The Fellowship Hall at the First Congregational Church of San Jose, 1980 Hamilton Ave, San Jose, CA 95125
