@@ -7,7 +7,7 @@ Represent Indivisible San Jose when you are at Town Halls or Marches or out in t
 
 **T-shirts**
 
-[Men’s](https://teespring.com/shop/indivisiblesanjose_men?aid=marketplace&tsmac=marketplace&tsmic=search#pid=2&cid=2122&sid=front)
+![Screen Shot 2017-04-28 at 10.22.44 PM.png](/uploads/Screen%20Shot%202017-04-28%20at%2010.22.44%20PM.png)[Men’s](https://teespring.com/shop/indivisiblesanjose_men?aid=marketplace&tsmac=marketplace&tsmic=search#pid=2&cid=2122&sid=front)
 
 Women
 
