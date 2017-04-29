@@ -5,6 +5,7 @@ categories:
 - moc
 tags:
 - eshoo
+Photo: "/uploads/17759995_414397325607540_5600501345088615906_n.jpg"
 ---
 
 The meeting started with a warm welcome from Rep Eshoo and staff member Fabiola.
