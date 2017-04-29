@@ -3,26 +3,30 @@ title: Resources
 layout: default
 ---
 
-### [Indivisible Guide](https://www.indivisibleguide.com/)
+### **Indivisible**
 
-Indivisible San Jose is a local chapter of the Indivisible movement, based on [indivisibleguide.com](https://www.indivisibleguide.com/).  The guide is an excellent introduction to effectively resisting the Trump agenda.  Download the [guide](https://www.indivisibleguide.com/guide/summary/).
+Learn more about [Indivisible](https://www.indivisibleguide.com/) and [download the Indivisible guide](https://www.indivisibleguide.com/guide/summary/).
 
-### [Flippable](https://www.flippable.org/)
+**Daily Action Resources**
 
-Indivisible San Jose working actively with [flippable.org](https://www.flippable.org/) to support the following special elections:
+[5calls.org](https://5calls.org/)
 
-* [Jon Ossoff](https://electjon.com/) in the upcoming June 20th US House GA-6 runoff
+[My Civic Workout](https://www.mycivicworkout.com/)
 
-* [Rob Quist](http://robquist.org/) in the May 25th election for Montana's US House election
+[Rise Stronger](https://www.risestronger.org/)
 
-* [Michela Skelton](http://www.michelaskelton.com/) in the August 8 election for the Missouri State House MO-50 election
+**Flippable Elections**
 
-We will be working on other races to be determined as well, including Flippable's "Flip VA Blue" efforts.  If you'd like to help please attend the next Indivisible San Jose meeting, or check in on our [Facebook group](https://www.facebook.com/groups/indivisiblesanjose), or sign up on the [Flippable web site](https://www.flippable.org/).
+[Flippable](https://www.flippable.org/)
 
-### [Sister District](https://www.sisterdistrict.com/)
+[Swing Left](https://swingleft.org/)
 
-The [Sister District Project](https://www.sisterdistrict.com/) organizes residents of relatively "safe blue" districts like CA-18 and CA-19 (where most of Indivisible San Jose members are) to volunteer in a "winnable red" district where their energy and involvement can make a difference.  Indivisible San Jose is working with Sister District to provide organizing help for our sister districts in the 2018 midterms, and possibly some special elections before then.
+[Sister District](https://www.sisterdistrict.com/)
 
-### [Swing Left](https://swingleft.org/)
+**Indivisible San Jose is supporting the following elections and candidates.**
 
-[Swing Left](https://swingleft.org/) is similar to Sister Districts but is focusing on a specific set of Swing Districts.  For Indivisible San Jose there is a nearby Swing District in CA-10.
+[Rob Quist](https://robquist.org/) (May 25)
+
+[Jon Ossoff](https://electjon.com/) (June 20)
+
+[Michela Skelton](http://www.michelaskelton.com/) (August 8)
