@@ -15,6 +15,8 @@ Learn more about [Indivisible](https://www.indivisibleguide.com/) and [download 
 
 [Rise Stronger](https://www.risestronger.org/)
 
+[Weekly Action Checklist for Americans of Conscience](https://jenniferhofmann.com/home/weekly-action-checklist-democrats-independents-republicans-conscience/)
+
 **Flippable Elections**
 
 [Flippable](https://www.flippable.org/)
