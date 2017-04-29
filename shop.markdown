@@ -3,7 +3,7 @@ title: Shop
 layout: default
 ---
 
-Represent Indivisible San Jose when you are at Town Halls or Marches or out in the community!
+Represent Indivisible San Jose when you are at Town Halls, Marches or when you are out in the community!
 
 **T-shirts**
 
