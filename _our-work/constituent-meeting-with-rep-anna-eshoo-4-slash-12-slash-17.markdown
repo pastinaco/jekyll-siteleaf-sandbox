@@ -13,6 +13,8 @@ The meeting started with a warm welcome from Rep Eshoo and staff member Fabiola.
 Anna started by acknowledging that she is already very familiar with Indivisible and is impressed with how it is influencing change in the new administration.
 
 We discussed health care. Anna provided some insight into how the bill went through committee during mark up with very little (if any?) opposition from Republicans.
+
+
 She emphasized that the failure of AHCA was unexpected and sent shockwaves through Washington. Many Representatives ended up voting against it after pressure from constituents at their town hall  meetings. She stated that Indivisible groups played an instrumental role in this.
 
 We discussed the withdrawal of funding for the upgrade of Bay Area transit was a huge blow. She has a great deal of experience in this area having been involved with planning since her earliest days in office (Board of Supervisors) and she is working hard to try to find a way to restore funding to upgrade and modernize public transportation in our district.
