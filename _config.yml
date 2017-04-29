@@ -8,6 +8,9 @@ collections:
   mocs:
     title: Members of Congress
     output: false
+  our-work:
+    title: Our work
+    output: true
   posts:
     title: Posts
     output: true
