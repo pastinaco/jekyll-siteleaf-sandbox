@@ -6,6 +6,7 @@ categories:
 tags:
 - lofgren
 Photo: "/uploads/isj_zoe.jpg"
+layout: event-with-picture
 ---
 
 Notes will be updated soon.

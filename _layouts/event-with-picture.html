@@ -2,9 +2,16 @@
 layout: default
 ---
 
+{% if page.picture %}
+	{% assign PHOTO = page.picture %}
+{% elsif page.Photo %}
+	{% assign PHOTO = page.Photo %}
+{% else %}
+	{% assign PHOTO = '' %}
+{% endif %}
 <div class="layout-{{ page.layout }}">
     <h3>{{ page.heading }}</h3>
-    <img src="{{ page.picture | absolute_url }}" 
+    <img src="{{ PHOTO | absolute_url }}" 
          alt="{{ page.heading }}" title="{{ page.heading }}"
          class="main-pic" />
 {{ content }}
