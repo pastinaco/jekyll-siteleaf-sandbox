@@ -1,6 +1,7 @@
 ---
 title: Meeting with Daniel Chen, Regional Director for Sen. Kamala Harris (6/7/17)
 date: 2017-06-24 15:32:00 -07:00
+position: 7
 Photo: "/uploads/Daniel%20Chen%20Meeting%20June%202017.jpg"
 ---
 

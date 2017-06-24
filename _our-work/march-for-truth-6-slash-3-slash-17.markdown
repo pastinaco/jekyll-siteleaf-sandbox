@@ -1,6 +1,7 @@
 ---
 title: March for Truth (6/3/17)
 date: 2017-06-24 15:45:00 -07:00
+position: 8
 Photo: "/uploads/March%20for%20Truth%20June%202017.jpg"
 ---
 
