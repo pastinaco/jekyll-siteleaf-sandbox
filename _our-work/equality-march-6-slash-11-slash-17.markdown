@@ -1,5 +1,5 @@
 ---
-title: Equality March (6/11/17)
+title: Equality, Unity & Pride March (6/11/17)
 date: 2017-06-24 13:56:00 -07:00
 Photo: "/uploads/Equality%20March%20June%2011%202017_4.jpg"
 ---
