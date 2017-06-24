@@ -5,7 +5,7 @@ categories:
 - moc
 tags:
 - eshoo
-position: 3
+position: 4
 picture: "/uploads/17759995_414397325607540_5600501345088615906_n.jpg"
 layout: event-with-picture
 ---
