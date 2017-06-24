@@ -5,7 +5,7 @@ categories:
 - moc
 tags:
 - lofgren
-position: 3
+position: 4
 Photo: "/uploads/isj_zoe.jpg"
 layout: event-with-picture
 ---
