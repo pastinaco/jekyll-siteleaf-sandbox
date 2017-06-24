@@ -1,6 +1,7 @@
 ---
 title: March for Truth (6/3/17)
 date: 2017-06-24 15:45:00 -07:00
+Photo: "/uploads/March%20for%20Truth%20June%202017.jpg"
 ---
 
 Indivisible San Jose showed up to support Indivisible East San Jose's March for Truth!
