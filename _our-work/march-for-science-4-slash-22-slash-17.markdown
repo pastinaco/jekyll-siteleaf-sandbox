@@ -1,7 +1,7 @@
 ---
 title: March for Science (4/22/17)
 date: 2017-04-22 22:39:00 -07:00
-position: 3
+position: 4
 Photo: "/uploads/march.jpg"
 layout: event-with-picture
 ---
