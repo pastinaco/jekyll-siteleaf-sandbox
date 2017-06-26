@@ -1,6 +1,6 @@
 ---
 title: Unity Rally (6/10/17)
-date: 2017-06-24 14:12:00 -07:00
+date: 2017-06-10 14:12:00 -07:00
 position: 2
 Photo: "/uploads/Unity%20Rally%20June%202017.jpg"
 ---
