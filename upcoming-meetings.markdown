@@ -9,11 +9,11 @@ Indivisible San Jose meets twice a month. We meet one Saturday morning and one W
 
 **Upcoming Meetings**
 
--Wednesday, August 23, 2017 at 7:30pm
--Saturday, September 9, 2017 at 9:30am.  (9 am social time)
--Wednesday, September 27, 2017 at 7:30pm
--Saturday, October 7, 2017 at 9:30am.  (9 am social time)
--Wednesday, October 25, 2017 at 7:30pm
+* Wednesday, August 23, 2017 at 7:30pm
+* Saturday, September 9, 2017 at 9:30am.  (9 am social time)
+* Wednesday, September 27, 2017 at 7:30pm
+* Saturday, October 7, 2017 at 9:30am.  (9 am social time)
+* Wednesday, October 25, 2017 at 7:30pm
 
 **Our meeting location**
 
